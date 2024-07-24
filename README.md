@@ -5,4 +5,6 @@ It has the following four files:
   3. paddle.py - has code for the paddle and it's movement (upwards and downwards).
   4. scoreboard.py - has code that displays the score of both the players and updates with every miss.
 
+Left paddle is controlled by "w" and "s".
+Right paddle is controlled by "Up" and "Down" arrow keys.
 Comments have been included in the files for better understanding and readbility.
